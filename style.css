@@ -1,0 +1,144 @@
+.top{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+     
+    
+}
+.sec{
+    margin-top:90px;
+    display: flex;
+     justify-content: space-evenly;
+}
+.form{
+    display: flex; 
+    align-items: center;
+    border: 1px solid rgb(88, 85, 85);
+    width: 350px;
+}
+.mf{
+     
+    margin-left: 90px;
+    margin-bottom: 20px; 
+
+}
+.blue{
+    color: white;
+     
+    
+    background: linear-gradient(91.41deg, #444BAB 0%, #3AA2C1 99.71%);
+    border-radius: 6px
+}
+.google
+{
+    
+display: flex;
+flex-direction: column;
+}
+.symbols{
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+}
+.fir{
+    display: flex;
+    flex-shrink: inherit ;
+}
+img{
+    width: 240px;
+}
+#heading{
+      
+}
+.level
+{
+
+ 
+    margin-top: 50px;
+}
+.inner{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.outer{
+    display: flex;
+  justify-content: space-evenly;
+
+}
+.data{
+    display: flex;
+    justify-content: space-around;
+}
+.data h1{
+    color: blueviolet;
+}
+.outer2{
+    display: flex;
+    flex-direction: column;
+    
+}
+.inner2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.outer3{
+    display: flex;
+    flex-direction: row;
+     justify-content: center;
+    margin-top: 50px;
+    
+}
+.outer4{
+    display: flex;
+    justify-content: center;
+}
+.outer5{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.outer6{
+    display: flex;
+  
+    justify-content: center;
+}
+ .oo{
+    display: flex;
+ }
+
+ .outer8{
+    display: flex;
+  
+    justify-content: center;
+}
+.last{
+    display:  flex;
+    justify-content: center;
+
+}
+.a{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 450px;
+height: 48px;
+left: 870px;
+top: 368px;
+
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+border-radius: 6px;
+}
+#pos{
+    height: 489px; 
+    width: 215px; 
+    position: absolute;
+    background: linear-gradient(180deg, #444BAB 0%, rgba(99, 167, 211, 0.265625) 73.44%, rgba(110, 200, 225, 0) 100%);
+    top:-73px;
+    right:0px;
+    z-index: -2;
+}
